@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46a326bc-fd27-476b-987e-3caec69fc17c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyOverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyJumperController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletDespawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyProjectileController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyOverTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wave Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerRespawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CrabController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OctopusController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemise/OctopusController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GrapelingHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatformController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/OctopusController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaveSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformDropThru.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hd6X7NIAhxlynCdWX8kKQwxZVK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a326bc-fd27-476b-987e-3caec69fc17c" name="Default Changelist" comment="" />
+      <created>1600328664102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600328664102</updated>
+      <workItem from="1600328682446" duration="5558000" />
+      <workItem from="1600336879097" duration="1446000" />
+      <workItem from="1600349015223" duration="1772000" />
+      <workItem from="1600418452596" duration="11476000" />
+      <workItem from="1600432974025" duration="7592000" />
+      <workItem from="1600466811349" duration="91000" />
+      <workItem from="1600467383849" duration="586000" />
+      <workItem from="1600528043987" duration="2078000" />
+      <workItem from="1600691999553" duration="95000" />
+      <workItem from="1600704178447" duration="569000" />
+      <workItem from="1600705776194" duration="4676000" />
+      <workItem from="1600766627213" duration="7615000" />
+      <workItem from="1600780914500" duration="5141000" />
+      <workItem from="1600804614600" duration="119000" />
+      <workItem from="1600804776958" duration="97000" />
+      <workItem from="1600804898868" duration="1070000" />
+      <workItem from="1600806051885" duration="877000" />
+      <workItem from="1600807137492" duration="94000" />
+      <workItem from="1600849796152" duration="1088000" />
+      <workItem from="1600882771149" duration="1541000" />
+      <workItem from="1600884379121" duration="423000" />
+      <workItem from="1600884937816" duration="259000" />
+      <workItem from="1600885293440" duration="480000" />
+      <workItem from="1600897822857" duration="5571000" />
+      <workItem from="1600933738140" duration="1214000" />
+      <workItem from="1600937842343" duration="1508000" />
+      <workItem from="1600940277368" duration="10630000" />
+      <workItem from="1601125131304" duration="3921000" />
+      <workItem from="1601155856333" duration="4910000" />
+      <workItem from="1601161017441" duration="10488000" />
+      <workItem from="1601209707515" duration="748000" />
+      <workItem from="1601213357071" duration="6139000" />
+      <workItem from="1601227376293" duration="169000" />
+      <workItem from="1601275977931" duration="120000" />
+      <workItem from="1601281223003" duration="2453000" />
+      <workItem from="1601372454515" duration="101000" />
+      <workItem from="1601388002424" duration="70000" />
+      <workItem from="1601388884688" duration="1433000" />
+      <workItem from="1601472034188" duration="597000" />
+      <workItem from="1601479403305" duration="4184000" />
+      <workItem from="1601556902963" duration="70000" />
+      <workItem from="1601559060686" duration="8000" />
+      <workItem from="1601559284638" duration="18000" />
+      <workItem from="1601564386418" duration="3380000" />
+      <workItem from="1601572355406" duration="461000" />
+      <workItem from="1601648132288" duration="645000" />
+      <workItem from="1601649496806" duration="1894000" />
+      <workItem from="1601665776698" duration="1325000" />
+      <workItem from="1601667746234" duration="6000" />
+      <workItem from="1601667817425" duration="126000" />
+      <workItem from="1601670809226" duration="650000" />
+      <workItem from="1601671725394" duration="1242000" />
+      <workItem from="1601677533274" duration="5884000" />
+      <workItem from="1601692183965" duration="1032000" />
+      <workItem from="1601772595248" duration="422000" />
+      <workItem from="1601773149762" duration="765000" />
+      <workItem from="1601815809715" duration="6000" />
+      <workItem from="1601816185905" duration="36000" />
+      <workItem from="1601817881657" duration="12000" />
+      <workItem from="1601818696220" duration="48000" />
+      <workItem from="1601819986968" duration="93000" />
+      <workItem from="1601822487354" duration="7348000" />
+      <workItem from="1601836761340" duration="998000" />
+      <workItem from="1601838381446" duration="70000" />
+      <workItem from="1601838911083" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600934352573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600934352573" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601682863558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601682863558" />
+  </component>
+</project>

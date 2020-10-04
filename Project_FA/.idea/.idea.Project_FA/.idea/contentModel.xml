@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Torbjörn\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Torbjörn\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Project_FA.-668187584.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Torbjörn\Project_FA" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Materials" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="DefaultColorFlash.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BombController.cs" t="Include" />
+          <e p="BulletController.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="DestroyOverTime.cs" t="Include" />
+          <e p="Enemies" t="Include">
+            <e p="CrabController.cs" t="Include" />
+            <e p="OctopusController.cs" t="Include" />
+          </e>
+          <e p="EnemyBulletController.cs" t="Include" />
+          <e p="HealthDisplay.cs" t="Include" />
+          <e p="InputSystem.cs" t="Include" />
+          <e p="MovingPlatformController.cs" t="Include" />
+          <e p="PlatformDropThru.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="FreezRay.cs" t="Include" />
+            <e p="GrapelingHook.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="Theher.cs" t="Include" />
+          </e>
+          <e p="ScoreDisplay.cs" t="Include" />
+          <e p="WaveSpawner.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Project_FA.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
